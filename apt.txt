@@ -1,0 +1,2 @@
+gcc
+libgsl-dev
