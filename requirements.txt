@@ -8,5 +8,5 @@ matplotlib==3.5.3
 numpy==1.21.5
 pandas==1.3.5
 scipy==1.7.3
-Thermobar==1.0.9
+Thermobar==1.0.24
 tqdm==4.64.1
